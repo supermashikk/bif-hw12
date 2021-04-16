@@ -1,2 +1,2 @@
 # bif-hw12
-solutions of problem from homework 12
+solutions of problems from homework 12
